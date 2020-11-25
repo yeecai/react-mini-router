@@ -1,0 +1,12 @@
+{
+  "name": "mini-react-router",
+  "version": "1.0.0",
+  "description": "a tiny version of react-router for study purpose only",
+  "main": "index.ts",
+"types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yushun",
+  "license": "ISC"
+}
